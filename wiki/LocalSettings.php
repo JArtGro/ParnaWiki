@@ -134,3 +134,6 @@ wfLoadSkin( 'Vector' );
 
 error_reporting( -1 );
 ini_set( 'display_errors', 1 );
+$wgShowSQLErrors = true;
+$wgDebugDumpSql  = true;
+$wgShowDBErrorBacktrace = true;
