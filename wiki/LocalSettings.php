@@ -55,7 +55,7 @@ $wgEmailAuthentication = true;
 $wgDBtype = "mysql";
 $wgDBserver = "parna.mysql.database.azure.com";
 $wgDBname = "parna_wiki";
-$wgDBuser = "ParnaInstallAdmin";
+$wgDBuser = "ParnaInstallAdmin@parna";
 $wgDBpassword = "AKb5KIl5W007g0Z!YyQF@Wwav";
 
 # MySQL specific settings
